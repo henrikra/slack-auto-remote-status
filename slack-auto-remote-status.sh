@@ -1,8 +1,6 @@
-
-SLACK_TOKEN=$(</Users/henrikra/projects/slack-auto-remote-status/.slack-token.config)
+source ~/.slack-auto-remote-status
 
 CURRENT_WIFI=$(/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I | awk '/ SSID/ {print substr($0, index($0, $2))}')
-OFFICE_NETWORK=$(</Users/henrikra/projects/slack-auto-remote-status/.office-network.config)
 
 if [ $CURRENT_WIFI == $OFFICE_NETWORK ]
 then
