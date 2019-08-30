@@ -1,6 +1,6 @@
 # Slack auto remote status
 
-Changes you Slack status automatically when you connect to new wifi. Now you don't ever forget to leave status to "Remote" when you are at the office 🔥
+Changes your Slack status automatically to "Working remotely" or "At office" when you connect to new wifi. Now you don't ever forget to leave status to "Working remotely" when you are back at the office 🔥
 
 ## Prerequisites
 
