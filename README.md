@@ -4,7 +4,8 @@ Changes you Slack status automatically when you connect to new wifi. Now you don
 
 ## Prerequisites
 
-Get Slack token from https://api.slack.com/custom-integrations/legacy-tokens before continuing
+1. OS X 🖥 (only works on OSX at the moment)
+2. Get Slack token from https://api.slack.com/custom-integrations/legacy-tokens before continuing
 
 ## Setup
 
