@@ -4,7 +4,7 @@
 <plist version="1.0">
 <dict>
   <key>Label</key>
-  <string>networkchange</string>
+  <string>com.slack.watcher</string>
   
   <key>LowPriorityIO</key>
   <true/>
